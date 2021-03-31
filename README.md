@@ -1,4 +1,4 @@
-![logo](https://github.com/fin-py/logo/blob/master/finpy_background_200x200.png)
+![logo](https://github.com/fin-py/logo/blob/main/finpy_background_200x200.png)
 
 # guideline
 finpyについて
